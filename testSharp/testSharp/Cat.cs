@@ -4,7 +4,8 @@ using System.Text;
 
 namespace testSharp
 {
-    class Cat
+    public class Cat
     {
+        public string Name { get; set; }
     }
 }
